@@ -35,10 +35,12 @@ Body {
     section {
         float: left;
         width: 495px;
+        height: 500px;
         color: #777777;
         background-color: #ebebeb;
         padding: 20px;
         margin: 20px 20px 25px 110px;
+        overflow: hidden;
     }
 
     aside {
@@ -49,6 +51,7 @@ Body {
         background-color: #ebebeb;
         padding: 10px;
         margin: 20px 110px 25px 20px;
+        overflow: hidden;
     }
 
     
